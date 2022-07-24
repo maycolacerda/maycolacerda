@@ -1,8 +1,8 @@
 ## Ola, eu sou Mayco Lacerda. Sou Desenvolvedor Backend, Professor e Maker nas horas vagas!
 <div align="center">
   <a href="https://github.com/maycolacerda">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=maycolacerda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycolacerda&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maycolacerda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycolacerda&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ##
